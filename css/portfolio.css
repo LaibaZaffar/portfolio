@@ -1,0 +1,107 @@
+.main_image {
+    border-radius: 20px;
+    width: 60%;
+    margin-top: 20%;
+    margin-left: 16%;
+    margin-bottom: 22%;
+}
+
+#head1 {
+    margin-top: 40%;
+    text-decoration: black;
+}
+
+.main {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#head2 {
+    text-align: center;
+    color: white;
+    margin-top: 4%;
+    margin-bottom: 3%;
+    text-shadow: 2px 2px 5px white;
+
+}
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #1b1818;
+    margin-bottom: 150px;
+    height: 280px;
+}
+
+.card:hover {
+    cursor: pointer;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+}
+
+.card-body {
+    padding: 5%;
+
+}
+
+.card-text {
+    text-decoration: white;
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+
+}
+
+.w15 {
+    width: 15%;
+}
+
+#mySkills {
+    margin-top: 5%;
+    margin-bottom: 3%;
+    text-align: center;
+    color: white;
+    font-family: Georgia;
+    text-shadow: 2px 2px 5px white;
+
+}
+
+.progress {
+    margin-bottom: 3%;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+
+}
+
+.pb-10 {
+    padding-bottom: 9%;
+}
+
+.c1 {
+    color: white;
+    font-family: Georgia;
+    margin-bottom: 1%;
+}
+
+.border {
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+    padding: 6%;
+}
+
+#coding {
+    color: white;
+    font-family: Georgia;
+    font-size: 30px;
+    text-shadow: 2px 2px 5px black;
+
+}
+
+.w5{
+    width:4%;
+    margin-bottom: 1%;
+}
+
+#social_icons img{
+    cursor: pointer;
+    margin-right: 1%;
+    margin-bottom: 2%;
+}
