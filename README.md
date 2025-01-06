@@ -18,7 +18,7 @@ This is the source code for personal portfolio website, hosted on GitHub Pages. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/LaibaZaffar/portfolio.git
+   git clone https://github.com/LaibaZaffar/simple-portfolio.git
 
 2. Navigate to the project directory:
    **cd portfolio**
