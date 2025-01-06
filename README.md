@@ -16,13 +16,14 @@ This is the source code for personal portfolio website, hosted on GitHub Pages. 
 
 ## Installation and Usage
 
-1. Clone the repository:
+1. Clone the repository
    ```bash
    git clone https://github.com/LaibaZaffar/simple-portfolio.git
 
-2. Navigate to the project directory:
-   **cd portfolio**
-   
-3. Open **index.html** in your web browser to view the website locally.
+2. Navigate to the project directory
+   ```bash
+   cd portfolio
+   ```
+4. Open **index.html** in your web browser to view the website locally.
 
 
