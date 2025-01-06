@@ -2,6 +2,8 @@
 
 This is the source code for personal portfolio website, hosted on GitHub Pages. The website showcases some skills, services, and professional experiences.
 
+![image](https://github.com/user-attachments/assets/a9018a2f-fca9-48af-ab70-6864f878eeea)
+
 ## Technologies Used
 
 - **HTML5**: Structure of the website.
