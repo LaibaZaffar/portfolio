@@ -21,8 +21,8 @@ This is the source code for personal portfolio website, hosted on GitHub Pages. 
    git clone https://github.com/LaibaZaffar/portfolio.git
 
 2. Navigate to the project directory:
-   cd portfolio
+   **cd portfolio**
    
-3. Open index.html in your web browser to view the website locally.
+3. Open **index.html** in your web browser to view the website locally.
 
 
