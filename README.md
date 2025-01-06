@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This is the source code for my personal portfolio website, hosted on GitHub Pages. The website showcases my skills, services, and professional experiences.
+This is the source code for personal portfolio website, hosted on GitHub Pages. The website showcases some skills, services, and professional experiences.
 
 ## Technologies Used
 
